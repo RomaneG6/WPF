@@ -1,0 +1,17 @@
+﻿<Window x:Class="IntroWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IntroWpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="600">
+    <Grid Margin="0,0,544,405">
+        <Button Content="Up left" Click="Button_Click" Foreground="#FFF71010"/>
+        <Button Content="Up right" Margin="545,0,-545,0" Foreground="#FF04CA1A"/>
+        <Button Content="Down left" Margin="0,407,0,-407" Foreground="#FF112ECE"/>
+        <Button Content="Bottom right" Margin="532,407,-545,-407" Foreground="#FFC80CC1"/>
+
+
+    </Grid>
+</Window>
