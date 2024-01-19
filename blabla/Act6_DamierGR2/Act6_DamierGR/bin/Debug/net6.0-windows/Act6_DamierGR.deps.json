@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Act6_DamierGR/1.0.0": {
+        "runtime": {
+          "Act6_DamierGR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Act6_DamierGR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
